@@ -11,4 +11,8 @@
 Welcome to Restaurant By Python
 
 # Ask Customer To what he/she want to order
- 
+add items in order 
+# Ask for second item 
+add item in order
+# Payment
+add both items and show amount
