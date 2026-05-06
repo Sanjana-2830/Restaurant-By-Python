@@ -6,4 +6,7 @@ menu = {
     'Salad': 50,
     'Pasta':80,
 }
-print(menu)
+
+print("Welcome to Restaurant By Python")
+print("Pizza: Rs90\nBurger: Rs70\nCoffee: Rs110\nSalad: Rs50\nPasta: Rs80")
+
